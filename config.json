@@ -8,7 +8,7 @@
   "mapLayers": [
     {
       "name": "OpenStreetMap",
-      "url": "https://tiles.darmstadt.freifunk.net/{z}/{x}/{y}.png",
+      "url": "https://tiles.darmstadt.freifunk.net/osm/{z}/{x}/{y}.png",
       "config": {
         "type": "osm",
         "maxZoom": 19,
