@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@vv6.0.2
+      uses: actions/checkout@v6.0.2
 
     - name: Download ZIP file
       run: curl -L -o meshviewer-build.zip https://github.com/freifunk/meshviewer/releases/download/v13.1.0/meshviewer-build.zip
